@@ -3,7 +3,6 @@
 
 - 🔭 I’m currently working on **Machine Learning**
 
-- 🌱 I’m currently learning **Dsa,Nlp.**
 
 - 👯 I’m looking to collaborate with **People working on Machine Learning based project**
 
